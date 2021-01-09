@@ -17,4 +17,4 @@ You may notice sometimes that you are feeling difficulty in creating the passwor
 ##### Refrences
 - realpython.com
 ---
-**I hope this application will provide you a great benifit and reduce your effort and thinking time for creation of the passwords.**
+**I hope this application will provide you a great benefit and reduce your effort and thinking time for creation of the passwords.**
