@@ -13,7 +13,7 @@ You may notice sometimes that you are feeling difficulty in creating the passwor
 - Click on the Generate Password button to generate the password.
 - Open the text file named **Passwords.txt** that is included with the application.
 - Copy the Password and use it.
-** If you forgot the password just open the text file and search the password with the help of date and time**
+**If you forgot the password just open the text file and search the password with the help of date and time.**
 ##### Refrences
 - realpython.com
 ---
